@@ -1,6 +1,6 @@
 # Entregables
 
-En esta carpeta se deben presentar todos los entregables del proyecto .
+En esta carpeta se deben presentar todos los entregables del proyecto.
 
 **Importante:** Todos los entregables deben estar en formato Markdown (.md) para asegurar la claridad, organización y facilidad de edición.
 
