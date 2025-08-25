@@ -1,6 +1,6 @@
 # Proyecto
 
-En esta carpeta se encuentran todos los archivos necesarios para poder replicar el proyecto:
+En esta carpeta deben estar todos los archivos necesarios para poder replicar el proyecto:
 
 - Código fuente del sistema (Módulo Software)
 - Archivos de diseño 3D para la fabricación de piezas (Módulo Mecánico)
